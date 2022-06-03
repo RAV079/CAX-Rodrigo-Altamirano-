@@ -1,0 +1,5 @@
+print('Holamundo')
+print('My name is Rodrigo')
+print('I am in the grate of 9 A')
+print('My favote food is:Sushi')
+print('And i practice futbol')
